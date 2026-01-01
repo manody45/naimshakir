@@ -2,7 +2,7 @@
 <html lang="ms">
 <head>
     <meta charset="UTF-8">
-    <title>Laman Web Technician</title>
+    <title>syaloroj Technician</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -56,7 +56,7 @@
 <body>
 
 <header>
-    <h1>Ahmad Technician</h1>
+    <h1>syajuruh Technician</h1>
     <p>Technician Elektrik & Komputer</p>
 </header>
 
